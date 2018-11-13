@@ -15,4 +15,5 @@
 - [ ] Project Management
 - [ ] Software Architect
 - [ ] Cloud Native
+- [ ] Cli
 
