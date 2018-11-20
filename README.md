@@ -17,3 +17,14 @@
 - [ ] Cloud Native
 - [ ] Cli
 
+### Support
+1 - Monolithic Applications
+2 - SOA
+3 - API Gate Way ( security,throttling,caching and monetization)
+4 - DDD
+
+
+```
+create domain $doamin_name
+add domain $parent_name $child_name
+```
