@@ -43,10 +43,6 @@
   ## message formats/types
   - 1 - JSON / XML
   - 2 - Avro
-    
-  
-- 1 - Event Driven Message communication
-- 2 - Published Language Pattern communication
 
 ### service discovery
 
